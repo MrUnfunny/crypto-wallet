@@ -24,7 +24,7 @@
         "assets": [
           {
             "path": "build/app/outputs/flutter-apk/app-release.apk",
-            "name": "visualize.apk"
+            "name": "cryptowallet.apk"
           }
         ]
       }
